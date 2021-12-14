@@ -1,0 +1,1 @@
+clang   -rdynamic CMakeFiles/battleship.dir/src/game.c.o CMakeFiles/battleship.dir/src/io.c.o CMakeFiles/battleship.dir/src/main.c.o CMakeFiles/battleship.dir/src/record.c.o  -o battleship 

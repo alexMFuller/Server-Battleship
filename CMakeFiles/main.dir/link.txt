@@ -1,0 +1,1 @@
+clang   -rdynamic CMakeFiles/main.dir/src/game.c.o CMakeFiles/main.dir/src/io.c.o CMakeFiles/main.dir/src/main.c.o CMakeFiles/main.dir/src/record.c.o  -o main 

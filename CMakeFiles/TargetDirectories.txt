@@ -1,0 +1,4 @@
+/home/runner/Battleship/CMakeFiles/edit_cache.dir
+/home/runner/Battleship/CMakeFiles/battleship.dir
+/home/runner/Battleship/CMakeFiles/rebuild_cache.dir
+/home/runner/Battleship/CMakeFiles/copy-compile-commands.dir

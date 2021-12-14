@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/runner/Battleship",
+  "command": "clang  -I/home/runner/Battleship/include -isystem /usr/include    -o CMakeFiles/battleship.dir/src/game.c.o   -c /home/runner/Battleship/src/game.c",
+  "file": "/home/runner/Battleship/src/game.c"
+},
+{
+  "directory": "/home/runner/Battleship",
+  "command": "clang  -I/home/runner/Battleship/include -isystem /usr/include    -o CMakeFiles/battleship.dir/src/io.c.o   -c /home/runner/Battleship/src/io.c",
+  "file": "/home/runner/Battleship/src/io.c"
+},
+{
+  "directory": "/home/runner/Battleship",
+  "command": "clang  -I/home/runner/Battleship/include -isystem /usr/include    -o CMakeFiles/battleship.dir/src/main.c.o   -c /home/runner/Battleship/src/main.c",
+  "file": "/home/runner/Battleship/src/main.c"
+},
+{
+  "directory": "/home/runner/Battleship",
+  "command": "clang  -I/home/runner/Battleship/include -isystem /usr/include    -o CMakeFiles/battleship.dir/src/record.c.o   -c /home/runner/Battleship/src/record.c",
+  "file": "/home/runner/Battleship/src/record.c"
+}
+]

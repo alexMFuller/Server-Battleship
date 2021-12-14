@@ -1,0 +1,20 @@
+io.o : include/io.c
+	gcc -c -Wall $<
+
+game.o : include/game.c
+	gcc -c -Wall $<
+
+record.o : include/record.c
+	gcc -c -Wall $<
+
+main.o : oldmain.c
+	gcc -c -Wall $<
+
+battleship : io.o game.o record.o main.o
+	gcc $^ -o battleshipNoServer
+
+run : battleship
+	./battleshipNoServer
+
+clean :
+	rm -f *.o tfs
